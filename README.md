@@ -29,12 +29,4 @@ docs/
   Sprint3-Relatorio.md
   Apresentacao-Projeto.md
   Evidencias-PGAdmin.md
-  PGAdmin-prints/  (coloque aqui as imagens)
-```
-
-## Publicação (Sprint 4)
-- Crie um repositório **público** vazio no GitHub.
-- **Upload files**: envie **todo o conteúdo desta pasta** (não a pasta mãe).
-- Suba os prints em `docs/PGAdmin-prints/` e confira o `docs/Evidencias-PGAdmin.md`.
-
-*Atualizado em 2025-11-04.*
+  PGAdmin-prints/
